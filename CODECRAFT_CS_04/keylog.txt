@@ -1,0 +1,14 @@
+[esc]NoneNoneNone[shift_r]R[backspace][shift_r]Hellow [shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r]Worlddram
+ram
+[shift_r][shift_r][shift_r][shift_r][shift_r][shift_r][shift_r]Pass[backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][shift_r]Pa[esc]pstddtreegive me a short and brief redeme file
+[shift_r]README.md
+[ctrl_l][ctrl_l][ctrl_l][backspace][backspace][backspace][backspace][backspace][up]
+[backspace][up][up]
+[backspace][down]
+[down][down][down][down][down]
+
+[ctrl_l][ctrl_l][backspace][backspace] pynput[ctrl_l][ctrl_l]```bash```[left][left][left]
+[up]
+[backspace][down]
+[up]python app.py
+[ctrl_l][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace]
