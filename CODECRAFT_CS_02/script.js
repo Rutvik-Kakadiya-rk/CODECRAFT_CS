@@ -52,7 +52,6 @@ function manipulateImage(encrypt = true) {
     data[i] = encrypt ? (data[i] + key) % 256 : (data[i] - key + 256) % 256;     // Red
     data[i + 1] = encrypt ? (data[i + 1] + key) % 256 : (data[i + 1] - key + 256) % 256; // Green
     data[i + 2] = encrypt ? (data[i + 2] + key) % 256 : (data[i + 2] - key + 256) % 256; // Blue
-    // Alpha remains unchanged
   }
 
   ctx.putImageData(imageData, 0, 0);
