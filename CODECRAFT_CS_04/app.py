@@ -1,6 +1,3 @@
-# keylogger.py
-# Internship Task: Simple Keylogger (Cyber Security Domain)
-
 from pynput import keyboard
 
 log_file = "keylog.txt"
