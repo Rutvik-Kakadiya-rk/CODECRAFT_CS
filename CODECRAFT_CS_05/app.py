@@ -1,6 +1,3 @@
-# packet_sniffer.py
-# Internship Task: Network Packet Analyzer (Cyber Security)
-
 from scapy.all import sniff, IP, TCP, UDP, ICMP
 
 def analyze_packet(packet):
