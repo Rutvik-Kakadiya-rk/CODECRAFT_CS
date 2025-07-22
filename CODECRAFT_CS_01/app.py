@@ -1,6 +1,3 @@
-# Caesar Cipher - Encrypt and Decrypt Text
-# Internship Domain: Cyber Security
-
 def encrypt(text, shift):
     result = ""
 
@@ -10,13 +7,13 @@ def encrypt(text, shift):
         elif char.islower():
             result += chr((ord(char) - 97 + shift) % 26 + 97)
         else:
-            result += char  # keep spaces and punctuation unchanged
+            result += char
 
     return result
 
 
 def decrypt(text, shift):
-    return encrypt(text, -shift)  # decryption is reverse of encryption
+    return encrypt(text, -shift)
 
 
 # -------- Main Program --------
